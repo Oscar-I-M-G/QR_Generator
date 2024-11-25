@@ -2,9 +2,8 @@
 
 I wanted a simple QR code generator for me .
 
-Important to
+Important to install:
 
-- Install these packages:
-  - `pip install qrcode`
-  - `pip install pillow`
-  - `pip install pysimplegui`
+- `pip install qrcode`
+- `pip install pillow`
+- `pip install pysimplegui`
